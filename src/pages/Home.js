@@ -126,8 +126,8 @@ const Home = () => {
         <div className="row align-items-center">
           {/* Column 1 */}
           <div className="col-md-3 col-sm-6 text-lg-start text-center">
-            <h5 className="text-black fw-bold">  <img src={fourImage} alt="" />About</h5>
-            <p className="text-black">LAYCA FLORIN C.loreem ipsum dolor sit,.</p>
+            <h5 className="text-black fw-bold">  <img src={fourImage} alt="" />&nbsp;&nbsp;About</h5>
+            <p className="text-black">LAYCA FLORIN C.<br/>BSIT-4-C</p>
           </div>
           {/* Column 2 */}
           <div className="col-md-3 col-sm-6 text-lg-start ps-lg-5 ps-0 text-center">
